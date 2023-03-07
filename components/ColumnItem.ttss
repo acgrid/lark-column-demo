@@ -1,0 +1,4 @@
+view.item {
+  border: gray 5rpx solid;
+  text-align: center;
+}

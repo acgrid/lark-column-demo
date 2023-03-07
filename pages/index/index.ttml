@@ -1,0 +1,8 @@
+<view class="intro">Column Layout</view>
+<view class="column">
+    <column-item />
+    <column-item />
+    <column-item />
+    <column-item />
+    <column-item />
+</view>

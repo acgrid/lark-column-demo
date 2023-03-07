@@ -1,0 +1,5 @@
+{
+    "usingComponents": {
+        "column-item": "/components/ColumnItem"
+    }
+}

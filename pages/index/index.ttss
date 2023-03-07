@@ -1,0 +1,9 @@
+.intro {
+  margin: 30px;
+  text-align: center;
+}
+
+.column {
+  column-width: 200rpx;
+  column-gap: 0;
+}
