@@ -1,0 +1,3 @@
+.column > tt-custom-component {
+    display: block;
+}
